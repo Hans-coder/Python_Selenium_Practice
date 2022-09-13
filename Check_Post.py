@@ -24,9 +24,9 @@ time.sleep(2)
 
 # # Type in the account/password
 # mail = chrome.find_element(By.XPATH,'//*[@id="email"]')
-# mail.send_keys('mon850927@gmail.com')
+# mail.send_keys('')
 # pwd = chrome.find_element(By.XPATH,'//*[@id="pass"]')
-# pwd.send_keys('loveailey1208')
+# pwd.send_keys('')
 # login = chrome.find_element(By.XPATH,'//*[@id="u_0_0_Pn"]')
 # login.click()
 
